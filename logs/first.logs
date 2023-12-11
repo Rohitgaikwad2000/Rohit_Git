@@ -1,0 +1,8 @@
+[2023-12-10 16:23:24] INFO in welcome view
+[2023-12-10 16:23:24] INFO <QuerySet [<Book: Book1>, <Book: Book2>, <Book: Book3>, <Book: Book4>, <Book: Book5>, <Book: Book6>]>
+[2023-12-10 16:24:13] INFO <QueryDict: {}>
+[2023-12-10 16:24:32] INFO <QueryDict: {'csrfmiddlewaretoken': ['FiC7IfwH79GvCbZRSe1B9PhZn2fN7so2HPiu7uBmrboeio5M5sy668uLF3pECIz3'], 'id': [''], 'title': ['Book7'], 'author': ['Auth7'], 'publication date': ['2023-11-02'], 'price': ['555']}>
+[2023-12-10 16:24:32] INFO in welcome view
+[2023-12-10 16:24:32] INFO <QuerySet [<Book: Book1>, <Book: Book2>, <Book: Book3>, <Book: Book4>, <Book: Book5>, <Book: Book6>, <Book: Book7>]>
+[2023-12-10 16:30:47] INFO in welcome view
+[2023-12-10 16:30:47] INFO all_book_data:- <QuerySet [<Book: Book1>, <Book: Book2>, <Book: Book3>, <Book: Book4>, <Book: Book5>, <Book: Book6>, <Book: Book7>]>
