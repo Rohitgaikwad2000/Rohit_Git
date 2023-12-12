@@ -13,3 +13,9 @@ mgm polytechnic aurangabad
 abcd 
 efch
 xyz
+
+
+
+python 
+b-10
+git
